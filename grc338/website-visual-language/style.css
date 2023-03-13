@@ -238,7 +238,7 @@ footer p {
 	div.contact{
 		display: grid;
 		grid-template-columns: 50% auto;
-		padding: 1rem 0.51rem;
+		padding: 1rem 0.5rem;
 	}
 
 }
